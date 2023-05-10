@@ -1,5 +1,5 @@
 {
-  "name": "yarn-berry-test",
+  "name": "@wanted/admin",
   "packageManager": "yarn@3.3.0",
   "private": true,
   "workspaces": [
